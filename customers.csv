@@ -1,0 +1,501 @@
+customer_id,customer_name,customer_segment,region,signup_date
+1,Customer_1,Home Office,South,2021-02-20
+2,Customer_2,Consumer,South,2022-02-07
+3,Customer_3,Home Office,East,2023-02-28
+4,Customer_4,Home Office,South,2021-01-05
+5,Customer_5,Consumer,West,2022-04-11
+6,Customer_6,Consumer,North,2022-08-27
+7,Customer_7,Home Office,West,2022-11-13
+8,Customer_8,Corporate,North,2023-04-09
+9,Customer_9,Home Office,North,2022-06-18
+10,Customer_10,Home Office,West,2022-02-09
+11,Customer_11,Home Office,West,2023-04-18
+12,Customer_12,Home Office,West,2022-05-28
+13,Customer_13,Consumer,West,2022-10-07
+14,Customer_14,Home Office,East,2021-08-21
+15,Customer_15,Corporate,South,2022-06-08
+16,Customer_16,Consumer,North,2021-12-12
+17,Customer_17,Corporate,West,2021-02-15
+18,Customer_18,Corporate,West,2022-06-30
+19,Customer_19,Corporate,West,2021-03-19
+20,Customer_20,Corporate,East,2022-12-31
+21,Customer_21,Consumer,West,2023-03-24
+22,Customer_22,Consumer,West,2021-03-14
+23,Customer_23,Corporate,West,2023-03-05
+24,Customer_24,Corporate,South,2021-09-06
+25,Customer_25,Consumer,East,2021-02-16
+26,Customer_26,Consumer,West,2021-05-01
+27,Customer_27,Consumer,North,2021-08-02
+28,Customer_28,Home Office,North,2021-08-27
+29,Customer_29,Home Office,North,2021-02-25
+30,Customer_30,Home Office,East,2021-12-16
+31,Customer_31,Corporate,East,2021-04-17
+32,Customer_32,Home Office,North,2023-04-11
+33,Customer_33,Corporate,West,2021-02-17
+34,Customer_34,Corporate,East,2022-07-27
+35,Customer_35,Home Office,North,2021-12-03
+36,Customer_36,Corporate,North,2021-01-26
+37,Customer_37,Home Office,West,2023-03-15
+38,Customer_38,Home Office,South,2021-09-14
+39,Customer_39,Consumer,East,2021-01-08
+40,Customer_40,Home Office,West,2022-09-17
+41,Customer_41,Consumer,North,2023-05-17
+42,Customer_42,Home Office,North,2021-09-10
+43,Customer_43,Home Office,West,2022-11-23
+44,Customer_44,Consumer,East,2022-12-20
+45,Customer_45,Consumer,South,2021-10-30
+46,Customer_46,Home Office,South,2022-10-01
+47,Customer_47,Corporate,North,2021-02-25
+48,Customer_48,Consumer,East,2022-12-27
+49,Customer_49,Corporate,South,2022-06-10
+50,Customer_50,Corporate,East,2022-04-19
+51,Customer_51,Corporate,East,2021-01-28
+52,Customer_52,Consumer,North,2021-03-19
+53,Customer_53,Corporate,South,2021-08-04
+54,Customer_54,Consumer,West,2022-01-21
+55,Customer_55,Corporate,North,2021-12-31
+56,Customer_56,Home Office,South,2022-10-28
+57,Customer_57,Home Office,South,2022-06-10
+58,Customer_58,Consumer,South,2022-11-30
+59,Customer_59,Home Office,South,2021-11-08
+60,Customer_60,Home Office,South,2023-06-02
+61,Customer_61,Corporate,East,2021-01-07
+62,Customer_62,Consumer,North,2021-01-03
+63,Customer_63,Corporate,East,2022-09-15
+64,Customer_64,Corporate,West,2023-01-20
+65,Customer_65,Corporate,South,2021-12-29
+66,Customer_66,Corporate,North,2023-01-21
+67,Customer_67,Corporate,South,2022-05-23
+68,Customer_68,Corporate,North,2021-10-01
+69,Customer_69,Corporate,East,2022-05-21
+70,Customer_70,Consumer,North,2023-03-17
+71,Customer_71,Home Office,West,2023-01-09
+72,Customer_72,Corporate,West,2023-06-02
+73,Customer_73,Corporate,North,2021-01-15
+74,Customer_74,Corporate,North,2021-07-11
+75,Customer_75,Corporate,North,2022-09-23
+76,Customer_76,Corporate,North,2022-04-30
+77,Customer_77,Corporate,West,2021-01-28
+78,Customer_78,Home Office,South,2022-12-15
+79,Customer_79,Home Office,North,2021-02-08
+80,Customer_80,Corporate,North,2021-09-30
+81,Customer_81,Home Office,West,2021-08-19
+82,Customer_82,Consumer,West,2021-03-27
+83,Customer_83,Corporate,East,2022-04-19
+84,Customer_84,Consumer,North,2021-05-06
+85,Customer_85,Consumer,East,2023-03-23
+86,Customer_86,Corporate,West,2022-06-21
+87,Customer_87,Home Office,West,2021-05-25
+88,Customer_88,Consumer,South,2022-06-09
+89,Customer_89,Corporate,North,2021-07-31
+90,Customer_90,Consumer,East,2021-01-25
+91,Customer_91,Consumer,West,2022-08-03
+92,Customer_92,Consumer,West,2022-01-29
+93,Customer_93,Consumer,East,2021-03-08
+94,Customer_94,Home Office,South,2021-08-21
+95,Customer_95,Consumer,West,2021-04-19
+96,Customer_96,Consumer,North,2021-05-26
+97,Customer_97,Consumer,West,2021-04-21
+98,Customer_98,Home Office,North,2021-08-16
+99,Customer_99,Consumer,East,2021-04-21
+100,Customer_100,Consumer,North,2022-04-15
+101,Customer_101,Home Office,East,2021-02-03
+102,Customer_102,Home Office,North,2022-09-15
+103,Customer_103,Home Office,East,2023-02-15
+104,Customer_104,Consumer,North,2022-01-04
+105,Customer_105,Home Office,South,2023-01-18
+106,Customer_106,Home Office,North,2022-08-18
+107,Customer_107,Consumer,North,2022-07-08
+108,Customer_108,Home Office,South,2022-03-01
+109,Customer_109,Consumer,West,2022-09-05
+110,Customer_110,Corporate,West,2022-06-02
+111,Customer_111,Home Office,North,2022-11-23
+112,Customer_112,Corporate,South,2021-10-09
+113,Customer_113,Consumer,North,2021-11-16
+114,Customer_114,Home Office,East,2023-01-08
+115,Customer_115,Consumer,East,2022-03-19
+116,Customer_116,Corporate,North,2021-11-11
+117,Customer_117,Consumer,West,2023-05-27
+118,Customer_118,Home Office,West,2023-01-11
+119,Customer_119,Home Office,North,2022-01-12
+120,Customer_120,Corporate,North,2021-10-16
+121,Customer_121,Consumer,East,2022-03-13
+122,Customer_122,Home Office,West,2022-10-24
+123,Customer_123,Corporate,North,2021-10-04
+124,Customer_124,Home Office,East,2022-12-11
+125,Customer_125,Home Office,West,2022-08-05
+126,Customer_126,Consumer,South,2022-05-18
+127,Customer_127,Home Office,East,2022-09-16
+128,Customer_128,Consumer,West,2022-05-31
+129,Customer_129,Home Office,West,2021-12-16
+130,Customer_130,Corporate,East,2023-04-23
+131,Customer_131,Home Office,South,2022-03-22
+132,Customer_132,Consumer,East,2023-04-10
+133,Customer_133,Consumer,West,2021-12-16
+134,Customer_134,Corporate,North,2022-08-30
+135,Customer_135,Home Office,North,2022-10-26
+136,Customer_136,Home Office,East,2023-04-03
+137,Customer_137,Corporate,West,2021-05-17
+138,Customer_138,Home Office,North,2023-01-29
+139,Customer_139,Home Office,West,2023-06-18
+140,Customer_140,Consumer,East,2021-08-31
+141,Customer_141,Home Office,North,2022-06-27
+142,Customer_142,Home Office,West,2021-02-09
+143,Customer_143,Corporate,North,2021-08-17
+144,Customer_144,Corporate,East,2022-07-02
+145,Customer_145,Consumer,West,2021-08-11
+146,Customer_146,Home Office,North,2021-01-06
+147,Customer_147,Home Office,East,2021-11-18
+148,Customer_148,Home Office,North,2022-04-13
+149,Customer_149,Consumer,North,2023-01-02
+150,Customer_150,Consumer,South,2021-03-16
+151,Customer_151,Corporate,South,2021-01-04
+152,Customer_152,Consumer,East,2023-04-27
+153,Customer_153,Home Office,South,2022-10-08
+154,Customer_154,Home Office,East,2021-04-28
+155,Customer_155,Consumer,South,2023-05-31
+156,Customer_156,Home Office,North,2022-08-29
+157,Customer_157,Home Office,East,2022-05-19
+158,Customer_158,Consumer,East,2022-07-28
+159,Customer_159,Consumer,North,2022-03-17
+160,Customer_160,Home Office,East,2021-07-13
+161,Customer_161,Home Office,East,2023-04-27
+162,Customer_162,Home Office,South,2022-12-16
+163,Customer_163,Corporate,East,2022-01-27
+164,Customer_164,Corporate,West,2021-01-26
+165,Customer_165,Corporate,North,2022-03-11
+166,Customer_166,Consumer,South,2021-06-22
+167,Customer_167,Corporate,South,2021-10-27
+168,Customer_168,Consumer,West,2022-10-07
+169,Customer_169,Consumer,North,2021-11-22
+170,Customer_170,Corporate,North,2022-02-14
+171,Customer_171,Corporate,South,2021-04-28
+172,Customer_172,Corporate,East,2023-04-16
+173,Customer_173,Home Office,South,2023-02-26
+174,Customer_174,Corporate,North,2022-12-25
+175,Customer_175,Home Office,West,2021-08-13
+176,Customer_176,Consumer,South,2022-06-16
+177,Customer_177,Home Office,North,2021-04-23
+178,Customer_178,Corporate,South,2021-05-20
+179,Customer_179,Consumer,East,2022-07-13
+180,Customer_180,Consumer,South,2021-01-01
+181,Customer_181,Consumer,South,2021-03-31
+182,Customer_182,Home Office,North,2022-10-16
+183,Customer_183,Corporate,North,2021-11-16
+184,Customer_184,Consumer,North,2022-07-04
+185,Customer_185,Consumer,South,2023-03-16
+186,Customer_186,Consumer,East,2023-06-13
+187,Customer_187,Home Office,West,2021-05-19
+188,Customer_188,Home Office,West,2022-05-26
+189,Customer_189,Corporate,North,2023-05-18
+190,Customer_190,Home Office,North,2023-04-25
+191,Customer_191,Consumer,South,2021-09-16
+192,Customer_192,Corporate,West,2022-11-04
+193,Customer_193,Consumer,North,2022-11-21
+194,Customer_194,Consumer,East,2021-01-10
+195,Customer_195,Home Office,East,2021-09-18
+196,Customer_196,Corporate,North,2022-10-12
+197,Customer_197,Home Office,North,2021-06-21
+198,Customer_198,Home Office,West,2023-06-17
+199,Customer_199,Corporate,West,2021-01-13
+200,Customer_200,Consumer,South,2021-06-17
+201,Customer_201,Consumer,West,2022-10-04
+202,Customer_202,Corporate,East,2022-08-19
+203,Customer_203,Consumer,East,2021-11-17
+204,Customer_204,Corporate,North,2021-11-15
+205,Customer_205,Corporate,West,2022-09-05
+206,Customer_206,Home Office,South,2021-11-25
+207,Customer_207,Corporate,East,2023-02-24
+208,Customer_208,Home Office,East,2023-02-16
+209,Customer_209,Consumer,South,2022-07-04
+210,Customer_210,Consumer,South,2022-02-23
+211,Customer_211,Consumer,East,2022-08-29
+212,Customer_212,Consumer,East,2021-04-05
+213,Customer_213,Home Office,South,2023-03-28
+214,Customer_214,Consumer,East,2022-08-04
+215,Customer_215,Corporate,North,2021-11-14
+216,Customer_216,Corporate,North,2021-08-24
+217,Customer_217,Corporate,South,2021-11-30
+218,Customer_218,Home Office,West,2023-06-04
+219,Customer_219,Consumer,South,2022-01-11
+220,Customer_220,Consumer,South,2022-04-04
+221,Customer_221,Consumer,West,2021-05-17
+222,Customer_222,Home Office,West,2022-08-11
+223,Customer_223,Corporate,West,2022-07-01
+224,Customer_224,Corporate,North,2022-05-28
+225,Customer_225,Consumer,East,2021-10-23
+226,Customer_226,Corporate,North,2021-11-16
+227,Customer_227,Corporate,East,2022-07-26
+228,Customer_228,Home Office,North,2023-04-12
+229,Customer_229,Home Office,East,2021-12-15
+230,Customer_230,Home Office,North,2023-04-20
+231,Customer_231,Home Office,West,2023-02-18
+232,Customer_232,Consumer,South,2023-05-23
+233,Customer_233,Home Office,North,2021-08-17
+234,Customer_234,Corporate,East,2021-09-27
+235,Customer_235,Consumer,West,2023-04-08
+236,Customer_236,Corporate,North,2023-03-09
+237,Customer_237,Corporate,North,2021-10-18
+238,Customer_238,Corporate,West,2022-12-26
+239,Customer_239,Home Office,North,2021-06-14
+240,Customer_240,Home Office,South,2021-01-05
+241,Customer_241,Consumer,North,2023-05-01
+242,Customer_242,Consumer,South,2022-01-14
+243,Customer_243,Home Office,South,2021-03-19
+244,Customer_244,Corporate,West,2022-02-14
+245,Customer_245,Consumer,North,2022-07-28
+246,Customer_246,Home Office,West,2021-05-12
+247,Customer_247,Home Office,North,2022-08-24
+248,Customer_248,Home Office,North,2023-01-19
+249,Customer_249,Corporate,East,2021-02-11
+250,Customer_250,Home Office,North,2021-03-30
+251,Customer_251,Home Office,West,2022-02-06
+252,Customer_252,Home Office,South,2021-10-23
+253,Customer_253,Home Office,North,2023-04-20
+254,Customer_254,Consumer,East,2021-10-22
+255,Customer_255,Consumer,West,2022-09-08
+256,Customer_256,Home Office,North,2022-06-10
+257,Customer_257,Corporate,West,2023-03-11
+258,Customer_258,Consumer,East,2022-11-22
+259,Customer_259,Home Office,East,2022-09-29
+260,Customer_260,Consumer,West,2022-02-26
+261,Customer_261,Consumer,North,2023-05-15
+262,Customer_262,Corporate,South,2021-01-23
+263,Customer_263,Home Office,East,2022-07-29
+264,Customer_264,Home Office,North,2021-05-23
+265,Customer_265,Corporate,North,2022-10-27
+266,Customer_266,Corporate,South,2021-05-25
+267,Customer_267,Home Office,East,2021-08-13
+268,Customer_268,Home Office,East,2022-05-18
+269,Customer_269,Corporate,North,2023-04-01
+270,Customer_270,Consumer,North,2022-09-08
+271,Customer_271,Consumer,South,2021-04-14
+272,Customer_272,Corporate,South,2021-02-08
+273,Customer_273,Consumer,East,2021-07-17
+274,Customer_274,Corporate,West,2022-10-08
+275,Customer_275,Consumer,East,2022-08-02
+276,Customer_276,Consumer,North,2022-01-26
+277,Customer_277,Home Office,East,2021-06-28
+278,Customer_278,Home Office,West,2022-07-08
+279,Customer_279,Consumer,South,2022-03-24
+280,Customer_280,Consumer,West,2022-05-15
+281,Customer_281,Home Office,West,2021-01-15
+282,Customer_282,Home Office,West,2022-09-15
+283,Customer_283,Home Office,South,2022-10-31
+284,Customer_284,Corporate,West,2021-10-16
+285,Customer_285,Consumer,West,2022-04-23
+286,Customer_286,Home Office,West,2021-08-19
+287,Customer_287,Consumer,North,2022-02-24
+288,Customer_288,Corporate,West,2021-06-06
+289,Customer_289,Corporate,South,2022-07-04
+290,Customer_290,Home Office,West,2022-03-17
+291,Customer_291,Corporate,West,2021-04-07
+292,Customer_292,Consumer,South,2022-02-15
+293,Customer_293,Home Office,West,2021-10-16
+294,Customer_294,Consumer,South,2021-09-11
+295,Customer_295,Consumer,West,2021-07-15
+296,Customer_296,Corporate,South,2022-08-21
+297,Customer_297,Corporate,West,2023-04-14
+298,Customer_298,Corporate,West,2022-06-06
+299,Customer_299,Corporate,North,2022-06-01
+300,Customer_300,Corporate,North,2022-09-27
+301,Customer_301,Home Office,West,2023-04-22
+302,Customer_302,Consumer,West,2023-05-15
+303,Customer_303,Consumer,East,2021-04-28
+304,Customer_304,Consumer,South,2023-03-17
+305,Customer_305,Consumer,East,2021-06-08
+306,Customer_306,Corporate,North,2023-03-26
+307,Customer_307,Consumer,North,2021-08-16
+308,Customer_308,Home Office,North,2023-05-27
+309,Customer_309,Home Office,North,2021-08-04
+310,Customer_310,Consumer,West,2022-11-27
+311,Customer_311,Consumer,North,2021-01-15
+312,Customer_312,Home Office,West,2021-06-06
+313,Customer_313,Home Office,West,2022-10-10
+314,Customer_314,Corporate,North,2021-09-18
+315,Customer_315,Home Office,North,2021-06-06
+316,Customer_316,Corporate,South,2021-02-16
+317,Customer_317,Corporate,East,2021-11-20
+318,Customer_318,Corporate,North,2023-04-24
+319,Customer_319,Corporate,South,2022-11-16
+320,Customer_320,Corporate,South,2021-05-10
+321,Customer_321,Consumer,East,2022-02-15
+322,Customer_322,Home Office,West,2021-04-05
+323,Customer_323,Corporate,North,2022-09-19
+324,Customer_324,Home Office,East,2023-01-25
+325,Customer_325,Home Office,North,2021-10-19
+326,Customer_326,Corporate,South,2023-03-05
+327,Customer_327,Consumer,South,2023-03-22
+328,Customer_328,Corporate,West,2021-10-10
+329,Customer_329,Consumer,South,2021-03-10
+330,Customer_330,Home Office,South,2022-10-22
+331,Customer_331,Consumer,East,2021-01-11
+332,Customer_332,Consumer,North,2021-09-11
+333,Customer_333,Consumer,North,2023-04-22
+334,Customer_334,Home Office,East,2023-05-22
+335,Customer_335,Home Office,West,2022-07-04
+336,Customer_336,Consumer,North,2021-05-14
+337,Customer_337,Consumer,South,2022-12-13
+338,Customer_338,Corporate,North,2021-01-23
+339,Customer_339,Consumer,South,2023-03-26
+340,Customer_340,Corporate,West,2021-12-12
+341,Customer_341,Consumer,East,2021-10-29
+342,Customer_342,Corporate,North,2021-12-29
+343,Customer_343,Home Office,East,2022-01-31
+344,Customer_344,Consumer,North,2021-08-06
+345,Customer_345,Consumer,South,2021-05-21
+346,Customer_346,Consumer,East,2022-09-08
+347,Customer_347,Consumer,North,2021-07-29
+348,Customer_348,Corporate,South,2022-09-15
+349,Customer_349,Consumer,East,2022-09-08
+350,Customer_350,Home Office,East,2023-04-08
+351,Customer_351,Home Office,North,2022-11-14
+352,Customer_352,Consumer,North,2022-04-05
+353,Customer_353,Home Office,North,2021-12-22
+354,Customer_354,Consumer,South,2021-11-20
+355,Customer_355,Consumer,North,2021-05-13
+356,Customer_356,Home Office,East,2023-06-07
+357,Customer_357,Consumer,East,2023-03-16
+358,Customer_358,Home Office,North,2023-04-20
+359,Customer_359,Corporate,North,2021-05-07
+360,Customer_360,Consumer,West,2021-04-16
+361,Customer_361,Corporate,East,2022-08-27
+362,Customer_362,Home Office,South,2023-03-10
+363,Customer_363,Corporate,West,2022-01-13
+364,Customer_364,Corporate,North,2021-02-20
+365,Customer_365,Home Office,North,2021-01-29
+366,Customer_366,Corporate,East,2022-04-07
+367,Customer_367,Corporate,North,2021-10-23
+368,Customer_368,Home Office,South,2021-10-24
+369,Customer_369,Corporate,East,2022-12-27
+370,Customer_370,Home Office,North,2023-02-18
+371,Customer_371,Corporate,East,2022-02-11
+372,Customer_372,Home Office,North,2023-02-08
+373,Customer_373,Home Office,North,2023-03-25
+374,Customer_374,Corporate,North,2022-09-05
+375,Customer_375,Corporate,South,2022-02-09
+376,Customer_376,Corporate,South,2021-12-12
+377,Customer_377,Consumer,East,2022-09-14
+378,Customer_378,Consumer,North,2022-02-24
+379,Customer_379,Consumer,North,2021-07-01
+380,Customer_380,Home Office,South,2023-04-05
+381,Customer_381,Corporate,North,2021-01-01
+382,Customer_382,Home Office,South,2023-04-11
+383,Customer_383,Consumer,North,2022-07-21
+384,Customer_384,Corporate,East,2022-01-06
+385,Customer_385,Home Office,North,2022-10-23
+386,Customer_386,Corporate,North,2022-03-07
+387,Customer_387,Home Office,West,2021-11-05
+388,Customer_388,Corporate,South,2021-05-17
+389,Customer_389,Consumer,North,2021-07-21
+390,Customer_390,Consumer,North,2022-03-12
+391,Customer_391,Corporate,West,2021-11-09
+392,Customer_392,Home Office,West,2021-04-27
+393,Customer_393,Consumer,South,2022-10-28
+394,Customer_394,Consumer,West,2023-03-14
+395,Customer_395,Consumer,East,2022-07-29
+396,Customer_396,Corporate,West,2021-09-01
+397,Customer_397,Corporate,East,2022-06-21
+398,Customer_398,Home Office,South,2022-08-25
+399,Customer_399,Home Office,South,2021-03-16
+400,Customer_400,Home Office,South,2023-03-17
+401,Customer_401,Corporate,South,2022-01-21
+402,Customer_402,Corporate,South,2021-07-29
+403,Customer_403,Home Office,East,2022-04-20
+404,Customer_404,Home Office,East,2022-02-22
+405,Customer_405,Corporate,South,2021-12-13
+406,Customer_406,Home Office,West,2022-06-13
+407,Customer_407,Consumer,North,2022-10-02
+408,Customer_408,Corporate,South,2023-05-26
+409,Customer_409,Home Office,West,2023-02-02
+410,Customer_410,Corporate,North,2021-06-28
+411,Customer_411,Consumer,South,2021-07-01
+412,Customer_412,Corporate,South,2022-10-26
+413,Customer_413,Corporate,East,2021-01-25
+414,Customer_414,Corporate,North,2021-06-29
+415,Customer_415,Corporate,North,2022-12-11
+416,Customer_416,Consumer,West,2022-05-16
+417,Customer_417,Corporate,East,2023-05-06
+418,Customer_418,Corporate,East,2021-06-10
+419,Customer_419,Home Office,East,2021-06-26
+420,Customer_420,Corporate,East,2021-10-12
+421,Customer_421,Home Office,North,2021-03-04
+422,Customer_422,Consumer,North,2022-10-24
+423,Customer_423,Consumer,South,2022-10-28
+424,Customer_424,Consumer,South,2021-06-05
+425,Customer_425,Consumer,East,2023-06-01
+426,Customer_426,Home Office,East,2022-04-14
+427,Customer_427,Corporate,East,2021-02-18
+428,Customer_428,Consumer,South,2023-04-29
+429,Customer_429,Corporate,West,2021-03-25
+430,Customer_430,Home Office,West,2021-12-27
+431,Customer_431,Home Office,South,2022-11-20
+432,Customer_432,Home Office,South,2021-05-28
+433,Customer_433,Consumer,South,2022-09-22
+434,Customer_434,Corporate,South,2021-12-08
+435,Customer_435,Corporate,South,2022-04-21
+436,Customer_436,Corporate,South,2021-03-04
+437,Customer_437,Home Office,East,2022-12-02
+438,Customer_438,Consumer,East,2021-12-26
+439,Customer_439,Home Office,East,2022-07-15
+440,Customer_440,Home Office,East,2021-11-23
+441,Customer_441,Corporate,South,2023-02-08
+442,Customer_442,Home Office,West,2023-01-06
+443,Customer_443,Corporate,North,2021-05-21
+444,Customer_444,Consumer,South,2021-08-03
+445,Customer_445,Corporate,North,2022-03-11
+446,Customer_446,Consumer,West,2023-06-10
+447,Customer_447,Corporate,East,2022-12-24
+448,Customer_448,Home Office,West,2021-11-14
+449,Customer_449,Home Office,South,2021-02-01
+450,Customer_450,Consumer,East,2022-11-01
+451,Customer_451,Consumer,South,2021-10-12
+452,Customer_452,Consumer,East,2021-11-01
+453,Customer_453,Corporate,North,2022-03-05
+454,Customer_454,Corporate,North,2022-04-22
+455,Customer_455,Consumer,North,2021-10-13
+456,Customer_456,Home Office,West,2021-05-24
+457,Customer_457,Corporate,South,2022-02-28
+458,Customer_458,Corporate,West,2021-01-19
+459,Customer_459,Corporate,North,2021-01-18
+460,Customer_460,Consumer,South,2023-02-08
+461,Customer_461,Consumer,North,2022-08-13
+462,Customer_462,Consumer,West,2022-01-06
+463,Customer_463,Consumer,West,2021-06-24
+464,Customer_464,Consumer,West,2021-07-13
+465,Customer_465,Home Office,North,2022-05-17
+466,Customer_466,Home Office,South,2021-04-23
+467,Customer_467,Consumer,South,2021-04-24
+468,Customer_468,Corporate,North,2021-08-10
+469,Customer_469,Consumer,South,2022-11-09
+470,Customer_470,Home Office,North,2023-04-11
+471,Customer_471,Home Office,South,2022-10-06
+472,Customer_472,Corporate,East,2023-06-16
+473,Customer_473,Home Office,East,2021-09-21
+474,Customer_474,Consumer,West,2021-02-24
+475,Customer_475,Corporate,East,2023-05-21
+476,Customer_476,Consumer,East,2022-10-05
+477,Customer_477,Consumer,East,2023-03-11
+478,Customer_478,Corporate,North,2023-02-17
+479,Customer_479,Consumer,East,2022-04-03
+480,Customer_480,Home Office,East,2023-05-28
+481,Customer_481,Consumer,West,2021-06-11
+482,Customer_482,Corporate,East,2022-01-15
+483,Customer_483,Corporate,East,2021-03-28
+484,Customer_484,Corporate,South,2021-02-24
+485,Customer_485,Consumer,West,2022-04-21
+486,Customer_486,Corporate,West,2023-03-11
+487,Customer_487,Corporate,West,2021-06-27
+488,Customer_488,Consumer,West,2022-01-26
+489,Customer_489,Home Office,West,2021-12-15
+490,Customer_490,Consumer,West,2021-01-08
+491,Customer_491,Corporate,North,2023-04-13
+492,Customer_492,Corporate,East,2021-11-09
+493,Customer_493,Consumer,West,2023-01-29
+494,Customer_494,Home Office,East,2023-04-15
+495,Customer_495,Corporate,East,2022-03-19
+496,Customer_496,Corporate,North,2023-02-06
+497,Customer_497,Corporate,West,2021-11-24
+498,Customer_498,Consumer,South,2021-02-23
+499,Customer_499,Corporate,North,2023-01-31
+500,Customer_500,Home Office,South,2021-08-27
